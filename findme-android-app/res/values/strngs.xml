@@ -1,1 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, AndroidConnectingToPhpMySQLActivity!</string>
+    <string name="app_name">Findme</string>
+    <string name="start">Start</string>
+    <string name="allinone">ALLINONE</string>
+    <string name="textview">TextView</string>
+    <string name="update">Update</string>
+    <string name="price">Price</string>
+    <string name="delete">Delete</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="send">send</string>
+    <string name="key">Key</string>
+</resources>
 
